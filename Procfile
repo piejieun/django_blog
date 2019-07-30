@@ -1,0 +1,1 @@
+web: gunicorn mutsablog.wsgi --log-file -
